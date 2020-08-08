@@ -23,5 +23,3 @@ contacts.each do |person, contact_details_hash|
         :favorite_ice_cream_flavors
         end
   end
-end
-end
